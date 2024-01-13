@@ -1,10 +1,10 @@
-# dynodeck-frontend
+![](https://cdn.discordapp.com/attachments/816335215625764865/1195705199520653394/Group_2.png?ex=65b4f63e&is=65a2813e&hm=2d003df89776f23d60123e92ac8ddf502c1c2dcd7e6f0c0f7007645766a62fdd&)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Dynodeck (Frontend)
 
-## Recommended IDE Setup
+[Project under construction]
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![](https://cdn.discordapp.com/attachments/816335215625764865/1195705919217082509/Landing_center_og.png?ex=65b4f6ea&is=65a281ea&hm=1d7968c99edcd3638716c2e9d2529208605b5335256a63e68648380724ee5213&)
 
 ## Type Support for `.vue` Imports in TS
 
@@ -16,10 +16,6 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
     1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
     2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
